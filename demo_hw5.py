@@ -71,3 +71,4 @@ fruit_1.set_name('baby banana')
 print(fruit_1.juicy())
 print(fruit_1.sizes)
 print(Fruit.sizes)
+
